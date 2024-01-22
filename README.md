@@ -13,7 +13,7 @@
 ### Block Quote
 >A wise man once said...
 ### Code
-'printf("hello world");'
+`printf("hello world");`
 ### Horizontal Rule
 ---
 ### Image
