@@ -16,7 +16,7 @@
 `printf("hello world");`
 ### Horizontal Rule
 ---
-### Image
-![image](https://upload.wikimedia.org/wikipedia/en/4/40/Stranger_in_a_Strange_Land_Cover.jpg)
 ### Link
 [Link to Github](https://www.example.com](https://github.com/smGarc/CPE322/)https://github.com/smGarc/CPE322/)
+### Image
+![image](https://upload.wikimedia.org/wikipedia/en/4/40/Stranger_in_a_Strange_Land_Cover.jpg)
