@@ -1,5 +1,10 @@
 # CPE322
 ## Assignment 0
+### Font Styles
+**Bold Text**
+*Italic Text*
+### Block Quote
+>A wise man once said...
 ### Lists
 1. First item
 2. Second item
@@ -7,11 +12,6 @@
 - First item
 - Second item
 - Third item
-### Font Styles
-**Bold Text**
-*Italic Text*
-### Block Quote
->A wise man once said...
 ### Code
 `printf("hello world");`
 ### Horizontal Rule
