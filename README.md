@@ -1,8 +1,8 @@
 # CPE322
 ## Assignment 0
 ### Font Styles
-**Bold Text**
-*Italic Text*
+- **Bold Text**
+- *Italic Text*
 ### Block Quote
 >A wise man once said...
 ### Lists
@@ -19,4 +19,4 @@
 ### Link
 [Link to Github](https://github.com/smGarc/CPE322/)
 ### Image
-![image](https://upload.wikimedia.org/wikipedia/en/4/40/Stranger_in_a_Strange_Land_Cover.jpg)
+![The cover of the novel Stranger in a Strange Land](https://upload.wikimedia.org/wikipedia/en/4/40/Stranger_in_a_Strange_Land_Cover.jpg)
