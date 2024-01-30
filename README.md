@@ -3,7 +3,7 @@
 Hello, my name is **Simon Garcia** *(He/Him)* and I am a 3/4 Computer Engineering major and Biology minor 
 ### Block Quote
 >Truth does not do as much good in the world as the appearence of truth does evil.
--Daniil Danksovsky
+Daniil Danksovsky
 ---
 ### My Top 3 Foods
 1. Hoagies
