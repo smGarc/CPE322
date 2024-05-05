@@ -1,12 +1,12 @@
 # Lab 01
----
+
 ## Half-Adder Example
 ### Terminal
 ![Screenshot of Windows Terminal](https://github.com/smGarc/CPE322/blob/main/Labs/Screenshots/Half-Adder-01.jpg)
 
 ### GTKWave 
 ![Screenshot of GTKWave displaying the Half-Adder Example](https://github.com/smGarc/CPE322/blob/main/Labs/Screenshots/Half-Adder-02.jpg)
----
+
 ## D-Flip-Flop Example
 ### Terminal
 ![Screenshot of Windows Terminal](https://github.com/smGarc/CPE322/blob/main/Labs/Screenshots/D-Flip-Flop-01.jpg)
