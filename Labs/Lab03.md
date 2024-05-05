@@ -1,5 +1,6 @@
 # Lab 03
 ![Screenshot of Windows Terminal following Lab 3 instructions, 1/8](https://github.com/smGarc/CPE322/blob/main/Labs/Screenshots/Lab03-01.jpg)
+time.example.py went on forever, had to terminate terminal to continue...
 ![Screenshot of Windows Terminal following Lab 3 instructions, 2/8](https://github.com/smGarc/CPE322/blob/main/Labs/Screenshots/Lab03-02.jpg)
 ![Screenshot of Windows Terminal following Lab 3 instructions, 3/8](https://github.com/smGarc/CPE322/blob/main/Labs/Screenshots/Lab03-03.jpg)
 ![Screenshot of Windows Terminal following Lab 3 instructions, 4/8](https://github.com/smGarc/CPE322/blob/main/Labs/Screenshots/Lab03-04.jpg)
