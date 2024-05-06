@@ -8,4 +8,4 @@
 ![Screenshot of Windows Terminal following Lab 9 instructions 4/5](https://github.com/smGarc/CPE322/blob/main/Labs/Screenshots/Lab09-04.jpg)
 
 ## Run PlantUML to generate intrusiondetection.png
-![Screenshot of Results following Lab 9 instructions 5/5](https://github.com/smGarc/CPE322/blob/main/Labs/Screenshots/Lab09-05.jpg)
+![Screenshot of Results following Lab 9 instructions 5/5](https://github.com/smGarc/CPE322/blob/main/Labs/Screenshots/Lab09-05.png)
